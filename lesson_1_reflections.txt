@@ -1,0 +1,25 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+  Viewing the different versions really helped to place a spotlight on the incorrect lines or bits of code that were different between the two versions.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+  Looking back on previous versions of a file or code.  Can show the progression made in the language or programming in general.  But, it can also highlight the mistakes made over and over.  So, one can reflect and be more conscience of what they are doing.  It can also provide a way to roll-back a file or code to a previous version if there are bugs or problems that would be less efficient to work out than rolling back.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+  Manually choosing when to commit, allows for more logical saving and backup.  Along with saving the amount of disk space or server space used for an application.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+  Git is designed and used more for, and by coders and developers. Who utilize multiple files and file types to create computer, smart phone, and other applications.  While the others are used more for "Collaboration".  Which, most collaborating in the workplace or offices.  Users are collaborating on the same file rather than multiple files at once.
+
+How can you use the commands git log and git diff to view the history of files?
+
+  The "git log" command will show all the changes and/or commits made to the current repository.  While the "git diff" command will show the actual changes made between the different files / commits for the repository.
+
+  How might using version control make you more confident to make changes that could break something?
+
+    Knowing that not only a program can be reverted back to an older working version, but knowing that the versions can be compared to find where the bug was introduced.  Makes it much more confident to try new things out.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use Git to utilize while learning full stack development.  Along, with learning to create applications.  I also, would like to utilize other git repositories to learn more about coding.  If I could use Git to better my job and or company in some way.  That would be very cool!!
