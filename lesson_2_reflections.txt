@@ -1,0 +1,15 @@
+What happens when you initialize a repository?
+
+    Using the "git.init" command initializes the current directory into a repository.  The repository is the actual Git grouping of files and folders that will be tracked.
+
+        Why do you need to do it?
+
+          Initializing the directory containing the files and folders to be apart of the repository. Also creates a hidden ".git" folder that Git uses to track the different files and folders within the repository.  Along with reporting back the necessary metadata about the different commits made and changes in files.
+
+How is the staging area different from the working directory and the repository?
+
+    The "staging area" is where files, folders, and other components are placed in preparation to be committed to the current working repository.  This differs from the 'working directory' on the basis that the working directory is the current directory where files being staged are stored on the local machine or computer being used.  The repository is the actual finished committal including the files previously staged, and all other necessary metadata.
+
+        What value do you think it offers?
+
+            Staged files do not become part of a repository until they have been committed.  Giving the user a chance to double check that the files staged are what they want to commit to the repository.
