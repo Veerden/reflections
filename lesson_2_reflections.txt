@@ -13,3 +13,26 @@ How is the staging area different from the working directory and the repository?
         What value do you think it offers?
 
             Staged files do not become part of a repository until they have been committed.  Giving the user a chance to double check that the files staged are what they want to commit to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+      The staging area can be used to assure one commit per logical change by adding and double checking files to be committed are apart of the one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    Branches would make things easier and be very useful when trying new logic or things to an existing program or application.  Rather than making changes to the master branch.  Creating a second or more branches to test new features would make things easier.
+
+How do the diagrams help you visualize the branch structure?
+
+    Branch diagrams show just how Git organizes all the branches and commits within the branches.  They also show how a repository can be taken in a different direction without having to create a new repository or messing up the original repository.
+
+What is the result of merging two branches together?
+
+    The commits made modifying or improving an application through another branch are merged together within the master branch and officially changing the application.
+
+Why do we represent it in the diagram the way we do?
+
+    To assure that the commits made within a branch can connect and be added to the master branch and parents of other branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
